@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #cad2c5;
+
+    width: 50%;
+    margin: auto;
+
+}
+
+hr {
+    color: bisque;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+
+}
+
+p {
+    background-color: #cad2c5;
+    padding: 20px;
+    margin: 30px;
+    color: #52796f;
+    border-radius: 50px;
+    text-align: center;
+}
+
+#question-section {
+    text-align: center;
+}
+
+button {
+    border-radius: 50px;
+    text-align: center;
+
+}
